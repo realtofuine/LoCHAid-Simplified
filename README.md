@@ -1,5 +1,5 @@
-# LoCHAid
-Repository for Addressing Age Related Hearing Loss through engineering accessible and affordable hearing technology
+# LoCHAid Simplified for Beginners
+Repository for Addressing Age Related Hearing Loss through engineering accessible and affordable hearing technology, simplified from the original.
 
 The .brd file for upload to OSHPARK is PCB.brd
 
